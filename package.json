@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "unirand": "^2.12.2"
+  }
+  
+}
